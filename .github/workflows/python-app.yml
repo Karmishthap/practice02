@@ -26,4 +26,4 @@ jobs:
    
     - name: Python application
       run: |
-        Python pratice02.py
+        Python Pratice02/calculator.py
